@@ -1,0 +1,1913 @@
+[
+    {
+        "img_name": "bjorke_90.png",
+        "mask_name": "bjorke_90.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "bjorke_91.png",
+        "mask_name": "bjorke_91.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, nine infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "bjorke_92.png",
+        "mask_name": "bjorke_92.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, five infected areas, upper left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "bjorke_93.png",
+        "mask_name": "bjorke_93.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, nine infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "bjorke_94.png",
+        "mask_name": "bjorke_94.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, nine infected areas, upper left lung and all right lung.."
+        }
+    },
+    {
+        "img_name": "bjorke_95.png",
+        "mask_name": "bjorke_95.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, lower left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "bjorke_96.png",
+        "mask_name": "bjorke_96.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, eight infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "bjorke_97.png",
+        "mask_name": "bjorke_97.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, all left lung and all right lung.."
+        }
+    },
+    {
+        "img_name": "bjorke_98.png",
+        "mask_name": "bjorke_98.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, three infected areas, left lung and all right lung.."
+        }
+    },
+    {
+        "img_name": "bjorke_99.png",
+        "mask_name": "bjorke_99.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, all left lung and all right lung.."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_76.png",
+        "mask_name": "Jun_coronacases_case8_76.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_77.png",
+        "mask_name": "Jun_coronacases_case8_77.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_78.png",
+        "mask_name": "Jun_coronacases_case8_78.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_79.png",
+        "mask_name": "Jun_coronacases_case8_79.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_80.png",
+        "mask_name": "Jun_coronacases_case8_80.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_81.png",
+        "mask_name": "Jun_coronacases_case8_81.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_82.png",
+        "mask_name": "Jun_coronacases_case8_82.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_83.png",
+        "mask_name": "Jun_coronacases_case8_83.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_84.png",
+        "mask_name": "Jun_coronacases_case8_84.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_85.png",
+        "mask_name": "Jun_coronacases_case8_85.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_86.png",
+        "mask_name": "Jun_coronacases_case8_86.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_87.png",
+        "mask_name": "Jun_coronacases_case8_87.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_88.png",
+        "mask_name": "Jun_coronacases_case8_88.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_89.png",
+        "mask_name": "Jun_coronacases_case8_89.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_90.png",
+        "mask_name": "Jun_coronacases_case8_90.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, five infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_91.png",
+        "mask_name": "Jun_coronacases_case8_91.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, six infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_92.png",
+        "mask_name": "Jun_coronacases_case8_92.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, five infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_93.png",
+        "mask_name": "Jun_coronacases_case8_93.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, six infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_94.png",
+        "mask_name": "Jun_coronacases_case8_94.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, six infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_95.png",
+        "mask_name": "Jun_coronacases_case8_95.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, five infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_96.png",
+        "mask_name": "Jun_coronacases_case8_96.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_97.png",
+        "mask_name": "Jun_coronacases_case8_97.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_98.png",
+        "mask_name": "Jun_coronacases_case8_98.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, five infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case8_99.png",
+        "mask_name": "Jun_coronacases_case8_99.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_100.png",
+        "mask_name": "Jun_coronacases_case9_100.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_101.png",
+        "mask_name": "Jun_coronacases_case9_101.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_102.png",
+        "mask_name": "Jun_coronacases_case9_102.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_103.png",
+        "mask_name": "Jun_coronacases_case9_103.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_104.png",
+        "mask_name": "Jun_coronacases_case9_104.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_105.png",
+        "mask_name": "Jun_coronacases_case9_105.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_106.png",
+        "mask_name": "Jun_coronacases_case9_106.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_107.png",
+        "mask_name": "Jun_coronacases_case9_107.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_108.png",
+        "mask_name": "Jun_coronacases_case9_108.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_109.png",
+        "mask_name": "Jun_coronacases_case9_109.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_110.png",
+        "mask_name": "Jun_coronacases_case9_110.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_111.png",
+        "mask_name": "Jun_coronacases_case9_111.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_112.png",
+        "mask_name": "Jun_coronacases_case9_112.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_113.png",
+        "mask_name": "Jun_coronacases_case9_113.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_114.png",
+        "mask_name": "Jun_coronacases_case9_114.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_115.png",
+        "mask_name": "Jun_coronacases_case9_115.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_116.png",
+        "mask_name": "Jun_coronacases_case9_116.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_117.png",
+        "mask_name": "Jun_coronacases_case9_117.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_118.png",
+        "mask_name": "Jun_coronacases_case9_118.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_119.png",
+        "mask_name": "Jun_coronacases_case9_119.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_120.png",
+        "mask_name": "Jun_coronacases_case9_120.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_121.png",
+        "mask_name": "Jun_coronacases_case9_121.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_122.png",
+        "mask_name": "Jun_coronacases_case9_122.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_123.png",
+        "mask_name": "Jun_coronacases_case9_123.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_124.png",
+        "mask_name": "Jun_coronacases_case9_124.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_125.png",
+        "mask_name": "Jun_coronacases_case9_125.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_126.png",
+        "mask_name": "Jun_coronacases_case9_126.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_127.png",
+        "mask_name": "Jun_coronacases_case9_127.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_128.png",
+        "mask_name": "Jun_coronacases_case9_128.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_129.png",
+        "mask_name": "Jun_coronacases_case9_129.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_130.png",
+        "mask_name": "Jun_coronacases_case9_130.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_131.png",
+        "mask_name": "Jun_coronacases_case9_131.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_132.png",
+        "mask_name": "Jun_coronacases_case9_132.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_133.png",
+        "mask_name": "Jun_coronacases_case9_133.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_134.png",
+        "mask_name": "Jun_coronacases_case9_134.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_135.png",
+        "mask_name": "Jun_coronacases_case9_135.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_136.png",
+        "mask_name": "Jun_coronacases_case9_136.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_137.png",
+        "mask_name": "Jun_coronacases_case9_137.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_138.png",
+        "mask_name": "Jun_coronacases_case9_138.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_139.png",
+        "mask_name": "Jun_coronacases_case9_139.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_140.png",
+        "mask_name": "Jun_coronacases_case9_140.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_141.png",
+        "mask_name": "Jun_coronacases_case9_141.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_142.png",
+        "mask_name": "Jun_coronacases_case9_142.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_143.png",
+        "mask_name": "Jun_coronacases_case9_143.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_144.png",
+        "mask_name": "Jun_coronacases_case9_144.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_145.png",
+        "mask_name": "Jun_coronacases_case9_145.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_146.png",
+        "mask_name": "Jun_coronacases_case9_146.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_147.png",
+        "mask_name": "Jun_coronacases_case9_147.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_148.png",
+        "mask_name": "Jun_coronacases_case9_148.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_149.png",
+        "mask_name": "Jun_coronacases_case9_149.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_150.png",
+        "mask_name": "Jun_coronacases_case9_150.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_151.png",
+        "mask_name": "Jun_coronacases_case9_151.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_152.png",
+        "mask_name": "Jun_coronacases_case9_152.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_153.png",
+        "mask_name": "Jun_coronacases_case9_153.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_156.png",
+        "mask_name": "Jun_coronacases_case9_156.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_157.png",
+        "mask_name": "Jun_coronacases_case9_157.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_158.png",
+        "mask_name": "Jun_coronacases_case9_158.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_159.png",
+        "mask_name": "Jun_coronacases_case9_159.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, three infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_160.png",
+        "mask_name": "Jun_coronacases_case9_160.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_161.png",
+        "mask_name": "Jun_coronacases_case9_161.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, four infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_162.png",
+        "mask_name": "Jun_coronacases_case9_162.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, four infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_163.png",
+        "mask_name": "Jun_coronacases_case9_163.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, six infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_164.png",
+        "mask_name": "Jun_coronacases_case9_164.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, five infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_165.png",
+        "mask_name": "Jun_coronacases_case9_165.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_166.png",
+        "mask_name": "Jun_coronacases_case9_166.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, four infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_167.png",
+        "mask_name": "Jun_coronacases_case9_167.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, four infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_168.png",
+        "mask_name": "Jun_coronacases_case9_168.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, four infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_169.png",
+        "mask_name": "Jun_coronacases_case9_169.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, three infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_170.png",
+        "mask_name": "Jun_coronacases_case9_170.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, three infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_171.png",
+        "mask_name": "Jun_coronacases_case9_171.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, three infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_172.png",
+        "mask_name": "Jun_coronacases_case9_172.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, three infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_173.png",
+        "mask_name": "Jun_coronacases_case9_173.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_174.png",
+        "mask_name": "Jun_coronacases_case9_174.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_175.png",
+        "mask_name": "Jun_coronacases_case9_175.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_176.png",
+        "mask_name": "Jun_coronacases_case9_176.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_177.png",
+        "mask_name": "Jun_coronacases_case9_177.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_178.png",
+        "mask_name": "Jun_coronacases_case9_178.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_179.png",
+        "mask_name": "Jun_coronacases_case9_179.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_180.png",
+        "mask_name": "Jun_coronacases_case9_180.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_181.png",
+        "mask_name": "Jun_coronacases_case9_181.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_182.png",
+        "mask_name": "Jun_coronacases_case9_182.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_183.png",
+        "mask_name": "Jun_coronacases_case9_183.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_184.png",
+        "mask_name": "Jun_coronacases_case9_184.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_185.png",
+        "mask_name": "Jun_coronacases_case9_185.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_186.png",
+        "mask_name": "Jun_coronacases_case9_186.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_187.png",
+        "mask_name": "Jun_coronacases_case9_187.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_188.png",
+        "mask_name": "Jun_coronacases_case9_188.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_189.png",
+        "mask_name": "Jun_coronacases_case9_189.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_190.png",
+        "mask_name": "Jun_coronacases_case9_190.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_191.png",
+        "mask_name": "Jun_coronacases_case9_191.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_192.png",
+        "mask_name": "Jun_coronacases_case9_192.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_193.png",
+        "mask_name": "Jun_coronacases_case9_193.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_194.png",
+        "mask_name": "Jun_coronacases_case9_194.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_195.png",
+        "mask_name": "Jun_coronacases_case9_195.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_196.png",
+        "mask_name": "Jun_coronacases_case9_196.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, three infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_197.png",
+        "mask_name": "Jun_coronacases_case9_197.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_85.png",
+        "mask_name": "Jun_coronacases_case9_85.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_86.png",
+        "mask_name": "Jun_coronacases_case9_86.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_87.png",
+        "mask_name": "Jun_coronacases_case9_87.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_88.png",
+        "mask_name": "Jun_coronacases_case9_88.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_89.png",
+        "mask_name": "Jun_coronacases_case9_89.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_90.png",
+        "mask_name": "Jun_coronacases_case9_90.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_91.png",
+        "mask_name": "Jun_coronacases_case9_91.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_92.png",
+        "mask_name": "Jun_coronacases_case9_92.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_93.png",
+        "mask_name": "Jun_coronacases_case9_93.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_94.png",
+        "mask_name": "Jun_coronacases_case9_94.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_95.png",
+        "mask_name": "Jun_coronacases_case9_95.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_96.png",
+        "mask_name": "Jun_coronacases_case9_96.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_97.png",
+        "mask_name": "Jun_coronacases_case9_97.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_98.png",
+        "mask_name": "Jun_coronacases_case9_98.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_coronacases_case9_99.png",
+        "mask_name": "Jun_coronacases_case9_99.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_4_85506_1_case19_28.png",
+        "mask_name": "Jun_radiopaedia_4_85506_1_case19_28.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, six infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_4_85506_1_case19_29.png",
+        "mask_name": "Jun_radiopaedia_4_85506_1_case19_29.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_4_85506_1_case19_30.png",
+        "mask_name": "Jun_radiopaedia_4_85506_1_case19_30.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_4_85506_1_case19_5.png",
+        "mask_name": "Jun_radiopaedia_4_85506_1_case19_5.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_4_85506_1_case19_6.png",
+        "mask_name": "Jun_radiopaedia_4_85506_1_case19_6.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_4_85506_1_case19_7.png",
+        "mask_name": "Jun_radiopaedia_4_85506_1_case19_7.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_4_85506_1_case19_8.png",
+        "mask_name": "Jun_radiopaedia_4_85506_1_case19_8.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and upper right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_4_85506_1_case19_9.png",
+        "mask_name": "Jun_radiopaedia_4_85506_1_case19_9.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and all right lung.."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_10.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_10.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_11.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_11.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_12.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_12.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_13.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_13.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_14.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_14.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_15.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_15.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_16.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_16.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_17.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_17.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_18.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_18.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_19.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_19.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_20.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_20.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_21.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_21.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_22.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_22.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_23.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_23.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_24.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_24.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_25.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_25.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_26.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_26.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_27.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_27.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_28.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_28.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_29.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_29.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_30.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_30.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_31.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_31.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_32.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_32.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_33.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_33.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_34.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_34.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_35.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_35.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_36.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_36.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_37.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_37.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_38.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_38.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_39.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_39.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, one infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_4.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_4.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_40.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_40.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_41.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_41.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_42.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_42.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_43.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_43.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_44.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_44.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_5.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_5.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_6.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_6.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_7.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_7.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_8.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_8.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Jun_radiopaedia_7_85703_0_case20_9.png",
+        "mask_name": "Jun_radiopaedia_7_85703_0_case20_9.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_11.png",
+        "mask_name": "Morozov_study_0299_11.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_12.png",
+        "mask_name": "Morozov_study_0299_12.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_13.png",
+        "mask_name": "Morozov_study_0299_13.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_14.png",
+        "mask_name": "Morozov_study_0299_14.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_15.png",
+        "mask_name": "Morozov_study_0299_15.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_16.png",
+        "mask_name": "Morozov_study_0299_16.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_17.png",
+        "mask_name": "Morozov_study_0299_17.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_18.png",
+        "mask_name": "Morozov_study_0299_18.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_24.png",
+        "mask_name": "Morozov_study_0299_24.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_26.png",
+        "mask_name": "Morozov_study_0299_26.png",
+        "prompts": {
+            "p9": "No pulmonary infection, zero infected areas."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_27.png",
+        "mask_name": "Morozov_study_0299_27.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_28.png",
+        "mask_name": "Morozov_study_0299_28.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, upper left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_29.png",
+        "mask_name": "Morozov_study_0299_29.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_30.png",
+        "mask_name": "Morozov_study_0299_30.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0299_9.png",
+        "mask_name": "Morozov_study_0299_9.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0300_20.png",
+        "mask_name": "Morozov_study_0300_20.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0300_21.png",
+        "mask_name": "Morozov_study_0300_21.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0300_22.png",
+        "mask_name": "Morozov_study_0300_22.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0300_30.png",
+        "mask_name": "Morozov_study_0300_30.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0300_31.png",
+        "mask_name": "Morozov_study_0300_31.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0300_32.png",
+        "mask_name": "Morozov_study_0300_32.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0301_11.png",
+        "mask_name": "Morozov_study_0301_11.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0301_22.png",
+        "mask_name": "Morozov_study_0301_22.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, upper left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0301_27.png",
+        "mask_name": "Morozov_study_0301_27.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0301_28.png",
+        "mask_name": "Morozov_study_0301_28.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0302_17.png",
+        "mask_name": "Morozov_study_0302_17.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0302_19.png",
+        "mask_name": "Morozov_study_0302_19.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0302_20.png",
+        "mask_name": "Morozov_study_0302_20.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, lower left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0302_21.png",
+        "mask_name": "Morozov_study_0302_21.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0302_22.png",
+        "mask_name": "Morozov_study_0302_22.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0302_23.png",
+        "mask_name": "Morozov_study_0302_23.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0302_24.png",
+        "mask_name": "Morozov_study_0302_24.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0302_25.png",
+        "mask_name": "Morozov_study_0302_25.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0302_26.png",
+        "mask_name": "Morozov_study_0302_26.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0302_27.png",
+        "mask_name": "Morozov_study_0302_27.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_10.png",
+        "mask_name": "Morozov_study_0303_10.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, lower left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_11.png",
+        "mask_name": "Morozov_study_0303_11.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_12.png",
+        "mask_name": "Morozov_study_0303_12.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_13.png",
+        "mask_name": "Morozov_study_0303_13.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, seven infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_14.png",
+        "mask_name": "Morozov_study_0303_14.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, five infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_15.png",
+        "mask_name": "Morozov_study_0303_15.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, lower left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_16.png",
+        "mask_name": "Morozov_study_0303_16.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, five infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_17.png",
+        "mask_name": "Morozov_study_0303_17.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_18.png",
+        "mask_name": "Morozov_study_0303_18.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_19.png",
+        "mask_name": "Morozov_study_0303_19.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_20.png",
+        "mask_name": "Morozov_study_0303_20.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_21.png",
+        "mask_name": "Morozov_study_0303_21.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_22.png",
+        "mask_name": "Morozov_study_0303_22.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_23.png",
+        "mask_name": "Morozov_study_0303_23.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_24.png",
+        "mask_name": "Morozov_study_0303_24.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_28.png",
+        "mask_name": "Morozov_study_0303_28.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_32.png",
+        "mask_name": "Morozov_study_0303_32.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_33.png",
+        "mask_name": "Morozov_study_0303_33.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_34.png",
+        "mask_name": "Morozov_study_0303_34.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_39.png",
+        "mask_name": "Morozov_study_0303_39.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_8.png",
+        "mask_name": "Morozov_study_0303_8.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, lower left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0303_9.png",
+        "mask_name": "Morozov_study_0303_9.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, lower left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_10.png",
+        "mask_name": "Morozov_study_0304_10.png",
+        "prompts": {
+            "p9": "No pulmonary infection, zero infected areas."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_12.png",
+        "mask_name": "Morozov_study_0304_12.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_13.png",
+        "mask_name": "Morozov_study_0304_13.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, lower left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_14.png",
+        "mask_name": "Morozov_study_0304_14.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_15.png",
+        "mask_name": "Morozov_study_0304_15.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_16.png",
+        "mask_name": "Morozov_study_0304_16.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, four infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_17.png",
+        "mask_name": "Morozov_study_0304_17.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_18.png",
+        "mask_name": "Morozov_study_0304_18.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_19.png",
+        "mask_name": "Morozov_study_0304_19.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, three infected areas, left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_20.png",
+        "mask_name": "Morozov_study_0304_20.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_21.png",
+        "mask_name": "Morozov_study_0304_21.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, two infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_22.png",
+        "mask_name": "Morozov_study_0304_22.png",
+        "prompts": {
+            "p9": "No pulmonary infection, zero infected areas."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_23.png",
+        "mask_name": "Morozov_study_0304_23.png",
+        "prompts": {
+            "p9": "Bilateral pulmonary infection, three infected areas, middle left lung and lower right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_24.png",
+        "mask_name": "Morozov_study_0304_24.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_25.png",
+        "mask_name": "Morozov_study_0304_25.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, left lung and middle right lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_30.png",
+        "mask_name": "Morozov_study_0304_30.png",
+        "prompts": {
+            "p9": "No pulmonary infection, zero infected areas."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_31.png",
+        "mask_name": "Morozov_study_0304_31.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_32.png",
+        "mask_name": "Morozov_study_0304_32.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, two infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_33.png",
+        "mask_name": "Morozov_study_0304_33.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_34.png",
+        "mask_name": "Morozov_study_0304_34.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_35.png",
+        "mask_name": "Morozov_study_0304_35.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    },
+    {
+        "img_name": "Morozov_study_0304_36.png",
+        "mask_name": "Morozov_study_0304_36.png",
+        "prompts": {
+            "p9": "Unilateral pulmonary infection, one infected areas, middle left lung."
+        }
+    }
+]

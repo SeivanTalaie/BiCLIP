@@ -1,0 +1,13 @@
+TRAIN:
+  train_batch_size: 16
+  lr: 0.0001
+
+  valid_batch_size: 16
+
+  min_epochs: 150
+  max_epochs: 150
+  patience: 100000
+
+  device: 1
+
+  model_save_filename: BiCLIP
